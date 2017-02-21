@@ -1,0 +1,210 @@
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+	padding: 0;
+	margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+    color: #4a4a4a;
+}
+
+#navbar ul{
+	position: relative;
+	list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+	
+}
+#navbar li{
+	display: inline;
+}
+#navbar li a {text-decoration: none;
+color: white;
+text-align: center;
+font-size: 30px;
+margin-left: 50px;
+font-family: sans-serif;
+}
+
+#headerwrap {
+	background: url(main4.jpg) no-repeat center top;
+	margin-top: -90px;
+	padding-top: 250px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#headerwrap h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	letter-spacing: 4px;
+	font-size: 80px;
+	font-weight: bold;
+}
+
+#headerwrap h3 {
+	font-weight: 400;
+	color: #ffffff
+}
+.food1 img {
+	opacity: 1;
+	filter: alpha(opacity=100);
+}
+.food1:hover {
+opacity: 0.3;
+filter: alpha(opacity=30);
+}
+.zen1 img {
+	width: 1024px;
+	height: 1024px;
+	opacity: 1;
+	filter: alpha(opacity=100);
+}
+.zen1:hover {
+opacity: 0.3;
+filter: alpha(opacity=30);
+}
+
+#social {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #f2f2f2;
+}
+
+#social i {
+	font-size: 40px;
+	color: #4a4a4a
+}
+
+#social i:hover {
+	color: #1abc9c
+}
+
+#footerwrap {
+	padding-top: 70px;
+	padding-bottom: 50px;
+	background-color: #2f2f2f;
+}
+
+#footerwrap p {
+	color: #f2f2f2;
+	margin-left: 10px;
+}
+
+#workwrap {	
+	background: url(piehead.jpg) no-repeat center top;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#workwrap h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	letter-spacing: 4px;
+	font-size: 80px;
+	font-weight: bold;
+	
+}
+
+#workwrap h3 {
+	font-weight: 400;
+	color: #ffffff
+}
+#food2 {
+	height: 850px;
+}
+#food {
+	height: 850px;
+}
+#food3 {
+	height: 500px;
+}
+#food4 {
+	height: 500px;
+}
+#food5 {
+	height: 500px;
+}
+#food6 {
+	height: 500px;
+}
+#zen {
+	height: 800px;
+}
+#zen2 {
+	height: 800px;
+}
+#zen3 {
+	height: 800px;
+}
+#zen4 {
+	height: 800px;
+}
+#aboutwrap {	
+	background: url(me3.jpg) no-repeat center top;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 550px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+	text-align:center;
+}
+#social img{
+display: inline-block;
+width: 60px;
+height: 60px;
+}
+
+
